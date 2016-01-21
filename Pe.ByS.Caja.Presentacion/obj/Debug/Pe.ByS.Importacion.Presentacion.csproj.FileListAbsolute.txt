@@ -1,0 +1,130 @@
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.pdb
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Antlr3.Runtime.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.AspNet.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.Core.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OAuth.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OpenId.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Newtonsoft.Json.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Helpers.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Mvc.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Optimization.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Razor.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Deployment.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Razor.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebGrease.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebMatrix.Data.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebMatrix.WebData.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Newtonsoft.Json.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Helpers.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Mvc.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Razor.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Deployment.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Razor.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebMatrix.Data.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebMatrix.WebData.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.AspNet.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.Core.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OAuth.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OpenId.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\EntityFramework.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Helpers.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Mvc.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Optimization.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Razor.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\WebMatrix.Data.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\WebMatrix.WebData.resources.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\obj\Debug\Pe.ByS.Importacion.Presentacion.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\obj\Debug\Pe.ByS.Importacion.Presentacion.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\obj\Debug\Pe.ByS.Importacion.Presentacion.csprojResolveAssemblyReference.cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Antlr3.Runtime.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Castle.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Castle.Windsor.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.SqlServer.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Newtonsoft.Json.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Helpers.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Http.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Mvc.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Optimization.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Razor.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\WebGrease.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\log4net.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Pe.ByS.Importacion.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Castle.Core.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Castle.Windsor.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\EntityFramework.SqlServer.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\Newtonsoft.Json.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Helpers.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Http.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Mvc.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.Razor.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\log4net.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Helpers.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\obj\Debug\Pe.ByS.Importacion.Presentacion.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion\obj\Debug\Pe.ByS.Importacion.Presentacion.pdb

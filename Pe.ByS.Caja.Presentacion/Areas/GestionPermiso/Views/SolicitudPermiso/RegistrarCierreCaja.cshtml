@@ -1,0 +1,137 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <strong>Registrar Cierre de Caja</strong>
+    </div>
+    <div class="panel-body" style="min-height: 330px;">
+        <div id="divMensajeInformativo">
+            <span class="fa fa-info-circle"></span>
+            <span id="lblMensajeInformativo">Por favor ingrese los siguientes valores.</span>
+        </div>
+        <hr />
+        
+        <form id="frmRegistrarPago">
+            <div id="divDatosPago">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-horizontal" role="form">
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">El Sistema tiene registrado:</label>
+                                <label class="col-sm-3 control-label"></label>
+                                <label class="col-sm-2 control-label">Ingrese los valores reales:</label>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Efectivo Soles:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtEfectivoSoles" type="text" class="form-control" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Efectivo Soles Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtEfectivoSolesReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Efectivo Dolares:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtEfectivoDolares" type="text" class="form-control" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Efectivo Dolares Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtEfectivoDolaresReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                   
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Tarjeta Soles:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtTarjetaSoles" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Tarjeta Soles Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtTarjetaSolesReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Tarjeta Dolares:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtTarjetaDolares" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Tarjeta Dolares Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtTarjetaDolaresReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Devolucion Soles:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtDevolucionSoles" type="text" class="form-control" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Devolucion Soles Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtDevolucionSolesReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Devolucion Dolares:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtDevolucionDolares" type="text" class="form-control" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Devolucion Dolares Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtDevolucionDolaresReal" type="text" class="form-control doubleInput" placeholder="0.00">
+                                </div>
+                            </div>
+                            <hr />
+                            <div id="divMensajeInformativo2">
+                                <span class="fa fa-info-circle"></span>
+                                <span id="lblMensajeInformativo2">Estos son los montos totales:</span>
+                            </div>
+                            <hr />
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Monto Total:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtMontoTotal" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
+                                </div>
+                                <label class="col-sm-2 control-label">Monto Total Real:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtMontoTotalReal" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
+                                </div>
+                            </div>
+                            <div class="form-group" style="">
+                                <label class="col-sm-2 control-label">Monto Diferencia:</label>
+                                <div class="col-sm-3">
+                                    <input id="txtMontoDiferencia" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-5"></div>
+                                <div class="col-sm-7" style="text-align: right;">
+                                    <input id="btnLimpiar" class="btn btn-default btn-filter" type="button" value="Limpiar" data-bind="visible: Limpiar.Visible, enable: Limpiar.Enabled" />
+                                    <input id="btnGrabar" type="button" value="Grabar" class="btn btn-primary   " data-bind="visible: MostrarResultado.Visible,enable: MostrarResultado.Enabled" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="../../Scripts/PDF/pdfmake.min.js"></script>
+ 	<script src="../../Scripts/PDF/vfs_fonts.js"></script>
+
+    <script type="text/javascript">
+        ns('Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions');        
+        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Cierre = '@Url.Action("Cierre", "SolicitudPermiso", new { Area = "GestionPermiso" })';
+        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Grabar = '@Url.Action("GrabarCierre", "SolicitudPermiso", new { Area = "GestionPermiso" })';
+    </script>
+}

@@ -1,0 +1,17 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.csprojResolveAssemblyReference.cache

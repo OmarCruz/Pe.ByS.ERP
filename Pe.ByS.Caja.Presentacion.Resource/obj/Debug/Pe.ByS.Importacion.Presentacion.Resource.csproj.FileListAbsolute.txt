@@ -1,0 +1,6 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.Base.GenericoResource.resources
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.pdb

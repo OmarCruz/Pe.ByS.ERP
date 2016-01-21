@@ -1,0 +1,16 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb

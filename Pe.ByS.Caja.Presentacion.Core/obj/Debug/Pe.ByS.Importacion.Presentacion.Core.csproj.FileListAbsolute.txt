@@ -1,0 +1,31 @@
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Core.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Core.pdb
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\obj\Debug\Pe.ByS.Importacion.Presentacion.Core.dll
+D:\Temp\ByS\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\obj\Debug\Pe.ByS.Importacion.Presentacion.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\obj\Debug\Pe.ByS.Importacion.Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\System.Web.Optimization.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Castle.Windsor.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Castle.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\log4net.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Castle.Windsor.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Castle.Core.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\log4net.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\obj\Debug\Pe.ByS.Importacion.Presentacion.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Core\obj\Debug\Pe.ByS.Importacion.Presentacion.Core.pdb

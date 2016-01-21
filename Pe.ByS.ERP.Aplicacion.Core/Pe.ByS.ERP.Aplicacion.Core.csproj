@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70825B48-7076-46C2-83AE-21B608455E37}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pe.ByS.ERP.Aplicacion.Core</RootNamespace>
+    <AssemblyName>Pe.ByS.ERP.Aplicacion.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\packages\Castle.Core.3.3.3\lib\net45\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Windsor">
+      <HintPath>..\packages\Castle.Windsor.3.3.0\lib\net45\Castle.Windsor.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\ConvertFormat.cs" />
+    <Compile Include="Base\IGenericService.cs" />
+    <Compile Include="Base\ProcessResult.cs" />
+    <Compile Include="Factory\EnvironmentFacility.cs" />
+    <Compile Include="Factory\PersistenceFacility.cs" />
+    <Compile Include="Factory\RequestContext.cs" />
+    <Compile Include="Factory\WindsorControllerFactory.cs" />
+    <Compile Include="Installers\ApplicationServiceInstaller.cs" />
+    <Compile Include="Installers\ControllersInstaller.cs" />
+    <Compile Include="Installers\DomainServiceInstaller.cs" />
+    <Compile Include="Installers\EnvironmentInstaller.cs" />
+    <Compile Include="Installers\LoggerInstaller.cs" />
+    <Compile Include="Installers\PersistenceInstaller.cs" />
+    <Compile Include="Installers\RepositoriesInstaller.cs" />
+    <Compile Include="Message\MensajesSistema.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceContract\Caja\GestionPermiso\ISolicitudPermisoService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Message\MensajesSistema.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Pe.ByS.ERP.Aplicacion.TransferObject\Pe.ByS.ERP.Aplicacion.TransferObject.csproj">
+      <Project>{4bee4ad2-b250-4ff4-aad3-3e28d5b07627}</Project>
+      <Name>Pe.ByS.ERP.Aplicacion.TransferObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pe.ByS.ERP.Cross.Core\Pe.ByS.ERP.Cross.Core.csproj">
+      <Project>{7c406e49-6fd6-431b-a423-b772173a004b}</Project>
+      <Name>Pe.ByS.ERP.Cross.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pe.ByS.ERP.Infraestructura.Core\Pe.ByS.ERP.Infraestructura.Core.csproj">
+      <Project>{51c53f9b-8f4e-4d69-9df1-84349eb78d30}</Project>
+      <Name>Pe.ByS.ERP.Infraestructura.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pe.ByS.ERP.Infraestructura.Model\Pe.ByS.ERP.Infraestructura.Model.csproj">
+      <Project>{620847a5-ebfd-42cc-b0f6-70b9a379b47f}</Project>
+      <Name>Pe.ByS.ERP.Infraestructura.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="ServiceContract\General\Comun\" />
+    <Folder Include="ServiceContract\Presupuesto\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

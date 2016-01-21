@@ -1,0 +1,96 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Programacion\Pe.ByS.ERP-20151125-gan\Pe.ByS.ERP-20151126-v1\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb

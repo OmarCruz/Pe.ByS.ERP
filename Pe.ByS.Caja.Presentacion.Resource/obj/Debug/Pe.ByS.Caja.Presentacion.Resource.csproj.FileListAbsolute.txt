@@ -1,0 +1,32 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\bin\Debug\Pe.ByS.Importacion.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.Base.GenericoResource.resources
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Importacion.Presentacion.Resource\obj\Debug\Pe.ByS.Importacion.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.Base.GenericoResource.resources
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csprojResolveAssemblyReference.cache
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.Base.GenericoResource.resources
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\gloriaa\Desktop\Presentacion_ArquitecturaSW\Pe.ByS.ERP-20151125-0203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.Base.GenericoResource.resources
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\Taller de Proyecto 2\Presentacion 5\26112015\Gloria\Pe.ByS.ERP-20151126-1203\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csprojResolveAssemblyReference.cache
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.Base.GenericoResource.resources
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb

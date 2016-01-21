@@ -1,0 +1,5 @@
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.QueryModel\bin\Debug\Pe.ByS.ERP.Infraestructura.QueryModel.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.QueryModel\bin\Debug\Pe.ByS.ERP.Infraestructura.QueryModel.pdb
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.QueryModel\obj\Debug\Pe.ByS.ERP.Infraestructura.QueryModel.csprojResolveAssemblyReference.cache
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.QueryModel\obj\Debug\Pe.ByS.ERP.Infraestructura.QueryModel.dll
+C:\UPC\TP2\Entregable 2\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.QueryModel\obj\Debug\Pe.ByS.ERP.Infraestructura.QueryModel.pdb
