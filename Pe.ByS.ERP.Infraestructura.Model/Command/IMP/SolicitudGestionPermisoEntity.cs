@@ -9,5 +9,10 @@ namespace Pe.ByS.ERP.Infraestructura.Model.Command.IMP
 {
     public class SolicitudGestionPermisoEntity: Entity
     {
+
+
+
+
+
     }
 }
