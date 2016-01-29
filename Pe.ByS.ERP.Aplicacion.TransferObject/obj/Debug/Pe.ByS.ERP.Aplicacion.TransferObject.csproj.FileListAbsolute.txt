@@ -35,3 +35,13 @@ C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.csprojResolveAssemblyReference.cache
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.csprojResolveAssemblyReference.cache
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb

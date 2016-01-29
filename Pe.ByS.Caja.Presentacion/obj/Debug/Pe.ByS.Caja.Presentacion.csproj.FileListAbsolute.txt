@@ -990,157 +990,157 @@ C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.csprojResolveAssemblyReference.cache
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.dll
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Antlr3.Runtime.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Optimization.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\WebGrease.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Helpers.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Mvc.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Optimization.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Razor.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.csprojResolveAssemblyReference.cache
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Antlr3.Runtime.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Optimization.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\WebGrease.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.pdb
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.xml
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Helpers.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Mvc.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Optimization.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Razor.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.csprojResolveAssemblyReference.cache
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.dll
-C:\Users\gloriaa\Desktop\FINAL\03122015_GAN\03122015_GAN\03122015_GAN (Modificaciones 5)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Antlr3.Runtime.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Optimization.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\WebGrease.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Helpers.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Antlr3.Runtime.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Optimization.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\WebGrease.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Adapter.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Model.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Dominio.Service.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.ERP.Infraestructura.Repository.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Core.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Castle.Windsor.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\EntityFramework.SqlServer.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\Newtonsoft.Json.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Net.Http.Formatting.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Helpers.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Http.WebHost.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Mvc.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.Razor.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Deployment.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\System.Web.WebPages.Razor.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\log4net.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Net.Http.Formatting.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Helpers.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Http.WebHost.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Mvc.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.Razor.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.csprojResolveAssemblyReference.cache
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion\obj\Debug\Pe.ByS.Caja.Presentacion.pdb

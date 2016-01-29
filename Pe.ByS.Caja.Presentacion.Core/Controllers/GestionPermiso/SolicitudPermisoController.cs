@@ -49,6 +49,20 @@ namespace Pe.ByS.Caja.Presentacion.Core.Controllers.GestionPermiso
             });
             return View(modelo);
         }
+
+        /// /// <summary>
+        /// Muestra la vista principal
+        /// </summary>
+        /// <returns>Vista principal de la opción</returns>
+        [HttpGet]
+        public ActionResult RegistrarDevolucion()
+        {
+            var modelo = new BuscarSolicitudPermisoViewModel(new List<CodigoValorResponse> { 
+                new CodigoValorResponse {Codigo="1",Valor="En Proceso"},
+                new CodigoValorResponse {Codigo="1",Valor="Terminado"}
+            });
+            return View(modelo);
+        }
         #endregion
 
         #region Vistas Parciales
@@ -70,33 +84,89 @@ namespace Pe.ByS.Caja.Presentacion.Core.Controllers.GestionPermiso
             if (request.ruc == null) request.ruc = "";
             if (request.razonSocial == null) request.razonSocial = "";
 
-            int numeroSolicitud = request.numeroSolicitud;
-            decimal montoRecibido = request.montoRecibido;
-            decimal vuelto = request.vuelto;
-            String referenciaPagoTarjeta = request.referenciaPagoTarjeta;
-            int codigoTipoDocumento = request.codigoTipoDocumento;
-            String ruc = request.ruc;
-            String razonSocial = request.razonSocial;
-            int codigoTipoPago = request.codigoTipoPago;
-            int codigoTipoMoneda = request.codigoTipoMoneda;
-
             PagoDomain svd = new PagoDomain();
-            svd.NumeroSolicitud = numeroSolicitud;
-            svd.MontoRecibido = montoRecibido;
-            svd.Vuelto = vuelto;
-            svd.referenciaPagoTarjeta = referenciaPagoTarjeta;
-            svd.codigoTipoDocumento = codigoTipoDocumento;
-            svd.ruc = ruc;
-            svd.razonSocial = razonSocial;
-            svd.codigoTipoPago = codigoTipoPago;
-            svd.codigoTipoMoneda = codigoTipoMoneda;
+            svd.numeroSolicitudVenta = request.numeroSolicitudVenta;
+            svd.tipoDocumentoId = request.tipoDocumentoId;
+            svd.tipoCambioId = request.tipoCambioId;
+            svd.tipoAtencion = request.tipoAtencion;
+            svd.observaciones = request.observaciones;
+            svd.montoTotal = request.montoTotal;
+            svd.montoRecibido = request.montoRecibido;
+            svd.Vuelto = request.Vuelto;
+            svd.ruc = request.ruc;
+            svd.razonSocial = request.razonSocial;
 
             var solicitudes = solicitudVentaService.GrabarPago(svd);
 
-            var comprobante = solicitudVentaService.BuscarComprobante(request.numeroSolicitud);
+            var comprobante = solicitudVentaService.BuscarComprobante(request.numeroSolicitudVenta);
 
             return Json(comprobante);
         }
+
+        [HttpPost]
+        public virtual JsonResult GrabarPagoDetalle(PagoRequest request)
+        {
+            if (request.referenciaPagoTarjeta == null) request.referenciaPagoTarjeta = "";
+            PagoDomain svd = new PagoDomain();
+            svd.documentoId = request.documentoId;
+            svd.tipoPagoId = request.tipoPagoId;
+            svd.monedaId = request.monedaId;
+            svd.monto = request.monto;
+            svd.referenciaPagoTarjeta = request.referenciaPagoTarjeta;
+           
+            var solicitudes = solicitudVentaService.GrabarPagoDetalle(svd);
+
+            return Json(solicitudes);
+        }
+
+
+
+        [HttpPost]
+        public virtual JsonResult BuscarDocumento(SolicitudVentaRequest request)
+        {
+            var solicitudes = solicitudVentaService.BuscarDocumentoPago(request.NumeroDocumento);
+            return Json(solicitudes);
+        }
+
+        [HttpPost]
+        public virtual JsonResult GrabarNotaCredito(PagoRequest request)
+        {
+            if (request.referenciaPagoTarjeta == null) request.referenciaPagoTarjeta = "";
+            if (request.ruc == null) request.ruc = "";
+            if (request.razonSocial == null) request.razonSocial = "";
+
+            PagoDomain svd = new PagoDomain();
+            // svd.numeroSolicitudVenta = request.numeroSolicitudVenta;
+            svd.tipoDocumentoId = request.tipoDocumentoId; // Se autogenera en el SP
+            svd.tipoCambioId = request.tipoCambioId;
+            svd.tipoAtencion = request.tipoAtencion;
+            svd.observaciones = request.observaciones;
+            svd.montoTotal = request.montoTotal;
+            // svd.Vuelto = request.Vuelto; // No se usa
+            svd.ruc = request.ruc;
+            svd.razonSocial = request.razonSocial;
+            svd.documentoPagoId = request.documentoPagoId;
+
+            var solicitudes = solicitudVentaService.GrabarNotaCredito(svd);
+
+            return Json(solicitudes);
+        }
+
+        [HttpPost]
+        public virtual JsonResult GrabarNotaCreditoDetalle(PagoRequest request)
+        {
+
+            PagoDomain svd = new PagoDomain();
+            svd.documentoId = request.documentoId;
+            svd.productoId = request.productoId;
+            svd.cantidadProducto = request.cantidadProducto;
+            
+            var solicitudes = solicitudVentaService.GrabarNotaCreditoDetalle(svd);
+
+            return Json(solicitudes);
+        }
+
+
 
         [HttpPost]
         public virtual JsonResult Cierre()

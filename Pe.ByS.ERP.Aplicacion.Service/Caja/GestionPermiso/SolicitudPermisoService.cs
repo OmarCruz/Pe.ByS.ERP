@@ -79,12 +79,11 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
                 {
                     SolicitudVentaDomain svd = new SolicitudVentaDomain();
 
-                    svd.cantidadProducto = item.cantidadProducto;
-                    svd.codigoProducto = item.codigoProducto;
+                    svd.productoId = item.productoId;
                     svd.descripcionProducto = item.descripcionProducto;
-                    svd.EstadoSolicitud = item.EstadoSolicitud;
-                    svd.FechaSolicitud = item.FechaSolicitud;
-                    svd.NumeroSolicitud = item.NumeroSolicitud;
+                    svd.presentacionProducto = item.presentacionProducto;
+                    svd.cantidadProducto = item.cantidadProducto;
+                    svd.descuento = item.descuento;
                     svd.precioProducto = item.precioProducto;
                     svd.subtotal = item.subtotal;
 
@@ -102,61 +101,56 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
             return list;
         }
 
-
-        //public ProcessResult<String> GrabarPago(int numeroSolicitud, decimal montoRecibido, String referenciaPagoTarjeta, int codigoTipoDocumento,
-        //    String ruc, String razonSocial, int codigoTipoPago, int codigoTipoMoneda)
-        //{
-        //    ProcessResult<String> result = new ProcessResult<String>();
-
-        //    var numeroComprobante = "";
-
-        //    try
-        //    {
-        //        PagoLogic svd = new PagoLogic();
-
-        //        svd.NumeroSolicitud = numeroSolicitud;
-        //        svd.MontoRecibido = montoRecibido;
-        //        svd.referenciaPagoTarjeta = referenciaPagoTarjeta;
-        //        svd.codigoTipoDocumento = codigoTipoDocumento;
-        //        svd.ruc = ruc;
-        //        svd.razonSocial = razonSocial;
-        //        svd.codigoTipoPago = codigoTipoPago;
-        //        svd.codigoTipoMoneda = codigoTipoMoneda;
-
-        //        numeroComprobante = EmpleadoLogicRepository.GrabarPago(svd);
-
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        //list.IsSuccess = true;
-        //        //list.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
-        //    }
-
-        //    return result;
-        //}
-
-
         public ProcessResult<String> GrabarPago(PagoDomain obj)
         {
             ProcessResult<String> result = new ProcessResult<String>();
 
-            var numeroComprobante = "";
+            var documentoId = "";
 
             try
             {
                 PagoLogic svd = new PagoLogic();
 
-                svd.NumeroSolicitud = obj.NumeroSolicitud;
-                svd.MontoRecibido = obj.MontoRecibido;
-                svd.Vuelto = obj.Vuelto;
-                svd.referenciaPagoTarjeta = obj.referenciaPagoTarjeta;
-                svd.codigoTipoDocumento = obj.codigoTipoDocumento;
+                svd.numeroSolicitudVenta = obj.numeroSolicitudVenta;
+                svd.tipoDocumentoId = obj.tipoDocumentoId;
+                svd.tipoCambioId = obj.tipoCambioId;
+                svd.tipoAtencion = obj.tipoAtencion;
+                svd.observaciones = obj.observaciones;
+                svd.montoTotal = obj.montoTotal;
+                svd.montoRecibido = obj.montoRecibido;
+                svd.Vuelto = obj.Vuelto;   
                 svd.ruc = obj.ruc;
                 svd.razonSocial = obj.razonSocial;
-                svd.codigoTipoPago = obj.codigoTipoPago;
-                svd.codigoTipoMoneda = obj.codigoTipoMoneda;
 
-                numeroComprobante = EmpleadoLogicRepository.GrabarPago(svd);
+                documentoId = EmpleadoLogicRepository.GrabarPago(svd);
+
+            }
+            catch (Exception e)
+            {
+                result.IsSuccess = true;
+                result.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
+            }
+
+            return result;
+        }
+
+        public ProcessResult<String> GrabarPagoDetalle(PagoDomain obj)
+        {
+            ProcessResult<String> result = new ProcessResult<String>();
+
+            var documentoId = "";
+
+            try
+            {
+                PagoLogic svd = new PagoLogic();
+
+                svd.documentoId = obj.documentoId;
+                svd.tipoPagoId = obj.tipoPagoId;
+                svd.monedaId = obj.monedaId;
+                svd.monto = obj.monto;
+                svd.referenciaPagoTarjeta = obj.referenciaPagoTarjeta;
+        
+                documentoId = EmpleadoLogicRepository.GrabarPagoDetalle(svd);
 
             }
             catch (Exception e)
@@ -174,13 +168,13 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
             List<PagoDomain> listResult = new List<PagoDomain>();
             try
             {
-                List<PagoLogic> solicitudVenta = EmpleadoLogicRepository.BuscarComprobante(numerosolicitud);
+                List<PagoLogic> documento = EmpleadoLogicRepository.BuscarComprobante(numerosolicitud);
 
-                foreach (var item in solicitudVenta)
+                foreach (var item in documento)
                 {
                     PagoDomain svd = new PagoDomain();
 
-                    svd.NumeroComprobante = item.NumeroComprobante;
+                    svd.numeroDocumento = item.numeroDocumento;
                     svd.razonSocial = item.razonSocial;
                     svd.ruc = item.ruc;
                     svd.telefono = item.telefono;
@@ -189,13 +183,16 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
                     svd.totalVenta = item.totalVenta;
                     svd.moneda = item.moneda;
                     svd.Vuelto = item.Vuelto;
-                    svd.MontoRecibido = item.MontoRecibido;
+                    svd.monto = item.monto;
                     svd.Cajero = item.Cajero;
                     svd.nombreSucursal = item.nombreSucursal;
                     svd.nombreProducto = item.nombreProducto;
+                    svd.unidadMedidaProducto = item.unidadMedidaProducto;
                     svd.precioProducto = item.precioProducto;
                     svd.cantidadProducto = item.cantidadProducto;
                     svd.subtotalProducto = item.subtotalProducto;
+                    svd.montoRecibido = item.montoRecibido;
+                    svd.documentoId = item.documentoId;
 
                     listResult.Add(svd);
                 }
@@ -210,6 +207,105 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
             }
             return list;
         }
+
+
+
+
+        public ProcessResult<List<SolicitudVentaDomain>> BuscarDocumentoPago(String numeroDocumento)
+        {
+            ProcessResult<List<SolicitudVentaDomain>> list = new ProcessResult<List<SolicitudVentaDomain>>();
+            List<SolicitudVentaDomain> listResult = new List<SolicitudVentaDomain>();
+            try
+            {
+                List<SolicitudVentaLogic> solicitudVenta = EmpleadoLogicRepository.BuscarDocumentoPago(numeroDocumento);
+
+                foreach (var item in solicitudVenta)
+                {
+                    SolicitudVentaDomain svd = new SolicitudVentaDomain();
+
+                    svd.productoId = item.productoId;
+                    svd.descripcionProducto = item.descripcionProducto;
+                    svd.presentacionProducto = item.presentacionProducto;
+                    svd.cantidadProducto = item.cantidadProducto;
+                    svd.descuento = item.descuento;
+                    svd.precioProducto = item.precioProducto;
+                    svd.subtotal = item.subtotal;
+
+                    listResult.Add(svd);
+                }
+
+                list.Result = listResult;
+
+            }
+            catch (Exception e)
+            {
+                list.IsSuccess = true;
+                list.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
+            }
+            return list;
+        }
+
+        public ProcessResult<String> GrabarNotaCredito(PagoDomain obj)
+        {
+            ProcessResult<String> result = new ProcessResult<String>();
+
+            var documentoId = "";
+
+            try
+            {
+                PagoLogic svd = new PagoLogic();
+
+                svd.numeroSolicitudVenta = obj.numeroSolicitudVenta;
+                svd.tipoDocumentoId = obj.tipoDocumentoId;
+                svd.tipoCambioId = obj.tipoCambioId;
+                svd.tipoAtencion = obj.tipoAtencion;
+                svd.observaciones = obj.observaciones;
+                svd.montoTotal = obj.montoTotal;
+                svd.Vuelto = obj.Vuelto;
+                svd.ruc = obj.ruc;
+                svd.razonSocial = obj.razonSocial;
+                svd.documentoPagoId = obj.documentoPagoId;
+
+                documentoId = EmpleadoLogicRepository.GrabarNotaCredito(svd);
+
+            }
+            catch (Exception e)
+            {
+                result.IsSuccess = true;
+                result.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
+            }
+
+            return result;
+        }
+
+        public ProcessResult<String> GrabarNotaCreditoDetalle(PagoDomain obj)
+        {
+            ProcessResult<String> result = new ProcessResult<String>();
+
+            var documentoId = "";
+
+            try
+            {
+                PagoLogic svd = new PagoLogic();
+
+                svd.documentoId = obj.documentoId;
+                svd.productoId = obj.productoId;
+                svd.cantidadProducto = obj.cantidadProducto;
+                svd.monto = obj.monto;
+                svd.referenciaPagoTarjeta = obj.referenciaPagoTarjeta;
+
+                documentoId = EmpleadoLogicRepository.GrabarNotaCreditoDetalle(svd);
+
+            }
+            catch (Exception e)
+            {
+                result.IsSuccess = true;
+                result.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
+            }
+
+            return result;
+        }
+
 
         public ProcessResult<CierreCajaDomain> CierreCaja()
         {

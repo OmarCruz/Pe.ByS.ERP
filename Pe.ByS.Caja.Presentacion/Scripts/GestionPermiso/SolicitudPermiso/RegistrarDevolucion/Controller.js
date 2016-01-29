@@ -10,8 +10,8 @@
 // };
 
 try {
-    ns('Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Buscar.Controller');
-    Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Buscar.Controller = function () {
+    ns('Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Devolucion.Controller');
+    Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Devolucion.Controller = function () {
         var base = this;
         var SolicitudVentaRequest = {};
         var PagoRequest = {};
@@ -23,9 +23,9 @@ try {
         base.Ini = function () {
             base.Control.btnBuscar().click(base.Event.btnBuscarClick);
             base.Function.CrearGridResultado();
-            base.Function.CrearGridDocumentoTipoPago();
+            // base.Function.CrearGridDocumentoTipoPago();
             base.Control.DivResultadoBusqueda().fadeIn();
-            base.Control.DivDocumentoTipoPago().fadeIn();
+            // base.Control.DivDocumentoTipoPago().fadeIn();
             base.Control.btnGrabar().click(base.Event.btnGrabarClick);
             base.Control.btnLimpiar().click(base.Event.btnLimpiarClick);
             base.Control.btnAgregarDocumentoTipoPago().click(base.Event.btnAgregarDocumentoTipoPagoClick);
@@ -39,7 +39,7 @@ try {
             $("#txtRazonSocial").hide();
         }
 
-        $('#divDocumentoTipoPago').click(function (event) {
+        /*$('#divDocumentoTipoPago').click(function (event) {
             // alert(event.target.id);
             jQuery.each(tipoPago, function (i, val) {
                 if (event.target.id.indexOf("btnEliminar_")!=-1 && 
@@ -56,7 +56,7 @@ try {
                     return false;
                 }
             });
-        });
+        });*/
 
         /*$('#divDocumentoTipoPago').keypress(function (event) {
             if ((event.which != 46 || event.target.value.indexOf('.') != -1) && (event.which < 48 || event.which > 57)) {
@@ -168,7 +168,7 @@ try {
             btnGrabar: function () { return $('#btnGrabar'); },
             btnLimpiar: function () { return $('#btnLimpiar'); },
             btnAgregarDocumentoTipoPago: function () { return $('#btnAgregarDocumentoTipoPago'); },
-            DivDocumentoTipoPago: function () { return $('#divDocumentoTipoPago') }
+            // DivDocumentoTipoPago: function () { return $('#divDocumentoTipoPago') }
         };
 
         base.Event = {
@@ -179,7 +179,7 @@ try {
                     alert('Debe ingresar un N° de Comprobante de Pedido');
                 }
                 else {
-                    SolicitudVentaRequest.NumeroSolicitud = base.Control.txtNumeroSolicitud().val();
+                    SolicitudVentaRequest.NumeroDocumento = base.Control.txtNumeroSolicitud().val();
                     base.Ajax.AjaxBuscar.data = SolicitudVentaRequest;
                     base.Ajax.AjaxBuscar.submit();
                 }
@@ -206,8 +206,10 @@ try {
                                 $('#txtTotalSoles').val((montoTotalSoles).toFixed(2));
                                 $('#txtTotalDolares').val((montoTotalSoles / tipoCambio).toFixed(2));
                                 // base.Control.GridResultado.data = data.Result;
+                                $('#txtMonto').val((montoTotalSoles).toFixed(2));
+                                $('#txtImporte').val((montoTotalSoles).toFixed(2));
                                 tipoPago = new Array();
-                                base.Function.CrearGridDocumentoTipoPago(null);
+                                // base.Function.CrearGridDocumentoTipoPago(null);
                             }                                
                         }
                         else
@@ -222,7 +224,7 @@ try {
             },
             btnGrabarClick: function () {
 
-                var mensaje = "";
+                /*var mensaje = "";
 
                 if ($('#txtNumeroSolicitud').val() == null || $('#txtNumeroSolicitud').val() == '') {
                     mensaje = mensaje + '- Debe ingresar un Comprobante de Pedido' + "\n";
@@ -288,7 +290,9 @@ try {
                 }
                 else {
                     alert(mensaje);
-                }
+                }*/
+
+                alert("Nota de credito generada satisfactoriamente");
 
             },
             AjaxGrabarSuccess: function (data) {
@@ -527,7 +531,7 @@ try {
                 $('#grdDocumentoTipoPago').empty();
                 tipoPago = new Array();
                 base.Function.CrearGridResultado(null);
-                base.Function.CrearGridDocumentoTipoPago(null);
+                // base.Function.CrearGridDocumentoTipoPago(null);
                 base.Function.CalcularTotales();
             },
             btnAgregarDocumentoTipoPagoClick: function () {
@@ -557,8 +561,8 @@ try {
                         "monto": montoText,
                         "eliminar": '<button id="btnEliminar_' + tipoPagoIndex + '" type="button" class="btn btn-default tipoPagoEliminar">Eliminar</button>'
                     });
-                    base.Function.CrearGridDocumentoTipoPago(tipoPago);
-                    base.Function.CalcularTotales();
+                    // base.Function.CrearGridDocumentoTipoPago(tipoPago);
+                    // base.Function.CalcularTotales();
                 } else {
                     alert("Debe ingresar correctamente el medio de pago");
                 }
@@ -631,8 +635,8 @@ try {
                     hasSelectionRows: false,
                     data: data
                 });
-            },
-            CrearGridDocumentoTipoPago: function (data) {
+            }
+            /* CrearGridDocumentoTipoPago: function (data) {
                 var columns = new Array();
                 columns.push({
                     data: 'tipoPagoText',
@@ -683,7 +687,7 @@ try {
                 vuelto = (-1) * ($('#txtTotalSoles').val() - importe);
                 $('#txtVuelto').val(vuelto.toFixed(2));
                 $('#txtImporte').val(importe.toFixed(2));
-            }
+            }*/
         };
 
     };

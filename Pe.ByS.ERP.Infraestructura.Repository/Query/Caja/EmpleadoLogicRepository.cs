@@ -32,14 +32,14 @@ namespace Pe.ByS.ERP.Infraestructura.Repository.Query.Caja
             foreach (var item in solicitudVenta)
             {
                 SolicitudVentaLogic obj = new SolicitudVentaLogic();
-                obj.cantidadProducto = item.cantidadProducto;
-                obj.codigoProducto = item.codigoProducto;
+                obj.productoId = item.productoId;
                 obj.descripcionProducto = item.descripcionProducto;
-                obj.EstadoSolicitud = item.EstadoSolicitud;
-                obj.FechaSolicitud = item.FechaSolicitud;
-                obj.NumeroSolicitud = item.NumeroSolicitud;
+                obj.presentacionProducto = item.presentacionProducto;
+                obj.cantidadProducto = item.cantidadProducto;
+                obj.descuento = item.descuento;
                 obj.precioProducto = item.precioProducto;
                 obj.subtotal = item.subtotal;
+                obj.EstadoSolicitud = item.EstadoSolicitud;
 
                 list.Add(obj);
             }
@@ -48,21 +48,35 @@ namespace Pe.ByS.ERP.Infraestructura.Repository.Query.Caja
 
         public String GrabarPago(PagoLogic obj)
         {
-            SqlParameter[] parametro = new SqlParameter[9];
+            SqlParameter[] parametro = new SqlParameter[8];
 
-            parametro[0] = new SqlParameter(); parametro[0].ParameterName = "numeroSolicitud"; parametro[0].Value = obj.NumeroSolicitud;
-            parametro[1] = new SqlParameter(); parametro[1].ParameterName = "montoRecibido"; parametro[1].Value = obj.MontoRecibido;
-            parametro[2] = new SqlParameter(); parametro[2].ParameterName = "referenciaPagoTarjeta"; parametro[2].Value = obj.referenciaPagoTarjeta;
-            parametro[3] = new SqlParameter(); parametro[3].ParameterName = "codigoTipoDocumento"; parametro[3].Value = obj.codigoTipoDocumento;
-            parametro[4] = new SqlParameter(); parametro[4].ParameterName = "ruc"; parametro[4].Value = obj.ruc;
-            parametro[5] = new SqlParameter(); parametro[5].ParameterName = "razonSocial"; parametro[5].Value = obj.razonSocial;
-            parametro[6] = new SqlParameter(); parametro[6].ParameterName = "codigoTipoPago"; parametro[6].Value = obj.codigoTipoPago;
-            parametro[7] = new SqlParameter(); parametro[7].ParameterName = "codigoTipoMoneda"; parametro[7].Value = obj.codigoTipoMoneda;
-            parametro[8] = new SqlParameter(); parametro[8].ParameterName = "vuelto"; parametro[8].Value = obj.Vuelto;
+            parametro[0] = new SqlParameter(); parametro[0].ParameterName = "numeroSolicitudVenta"; parametro[0].Value = obj.numeroSolicitudVenta;
+            parametro[1] = new SqlParameter(); parametro[1].ParameterName = "tipoDocumentoId"; parametro[1].Value = obj.tipoDocumentoId;
+            parametro[2] = new SqlParameter(); parametro[2].ParameterName = "tipoCambioId"; parametro[2].Value = obj.tipoCambioId;
+            parametro[3] = new SqlParameter(); parametro[3].ParameterName = "observaciones"; parametro[3].Value = obj.observaciones;
+            parametro[4] = new SqlParameter(); parametro[4].ParameterName = "montoTotal"; parametro[4].Value = obj.montoTotal;
+            parametro[5] = new SqlParameter(); parametro[5].ParameterName = "vuelto"; parametro[5].Value = obj.Vuelto;
+            parametro[6] = new SqlParameter(); parametro[6].ParameterName = "ruc"; parametro[6].Value = obj.ruc;
+            parametro[7] = new SqlParameter(); parametro[7].ParameterName = "razonSocial"; parametro[7].Value = obj.razonSocial;
 
-            var pago = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GRABARPAGO", parametro).ToString();
+            var documentoId = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarDocumento", parametro).ToString();
 
-            return pago;
+            return documentoId;
+        }
+
+        public String GrabarPagoDetalle(PagoLogic obj)
+        {
+            SqlParameter[] parametro = new SqlParameter[5];
+            
+            parametro[0] = new SqlParameter(); parametro[0].ParameterName = "documentoId"; parametro[0].Value = obj.documentoId;
+            parametro[1] = new SqlParameter(); parametro[1].ParameterName = "tipoPagoId"; parametro[1].Value = obj.tipoPagoId;
+            parametro[2] = new SqlParameter(); parametro[2].ParameterName = "monedaId"; parametro[2].Value = obj.monedaId;
+            parametro[3] = new SqlParameter(); parametro[3].ParameterName = "monto"; parametro[3].Value = obj.monto;
+            parametro[4] = new SqlParameter(); parametro[4].ParameterName = "referencia"; parametro[4].Value = obj.referenciaPagoTarjeta;
+
+            var documentoId = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarDocumentoTipoPago", parametro).ToString();
+
+            return documentoId;
         }
 
         public List<PagoLogic> BuscarComprobante(int nroSolicitud)
@@ -77,7 +91,7 @@ namespace Pe.ByS.ERP.Infraestructura.Repository.Query.Caja
             {
                 PagoLogic obj = new PagoLogic();
 
-                obj.NumeroComprobante = item.NumeroComprobante;
+                obj.numeroDocumento = item.numeroDocumento;
                 obj.razonSocial = item.razonSocial;
                 obj.ruc = item.ruc;
                 obj.telefono = item.telefono;
@@ -86,18 +100,81 @@ namespace Pe.ByS.ERP.Infraestructura.Repository.Query.Caja
                 obj.totalVenta = item.totalVenta;
                 obj.moneda = item.moneda;
                 obj.Vuelto = item.Vuelto;
-                obj.MontoRecibido = item.MontoRecibido;
+                obj.monto = item.monto;
                 obj.Cajero = item.Cajero;
                 obj.nombreSucursal = item.nombreSucursal;
                 obj.nombreProducto = item.nombreProducto;
+                obj.UMProducto = item.UMProducto;
                 obj.precioProducto = item.precioProducto;
                 obj.cantidadProducto = item.cantidadProducto;
                 obj.subtotalProducto = item.subtotalProducto;
+                obj.montoRecibido = item.montoRecibido;
+                obj.documentoId = item.documentoId;
+                list.Add(obj);
+            }
+            return list;
+        }
+
+
+        public List<SolicitudVentaLogic> BuscarDocumentoPago(string numeroDocumento)
+        {
+            List<SolicitudVentaLogic> list = new List<SolicitudVentaLogic>();
+
+            SqlParameter userNameParameter = new SqlParameter("numeroDocumento", numeroDocumento);
+
+            var solicitudVenta = this.dataBaseProvider.ExecuteStoreProcedure<SolicitudVentaLogic>("dbo.DatosDocumento", userNameParameter).ToList();
+
+            foreach (var item in solicitudVenta)
+            {
+                SolicitudVentaLogic obj = new SolicitudVentaLogic();
+                obj.productoId = item.productoId;
+                obj.descripcionProducto = item.descripcionProducto;
+                obj.presentacionProducto = item.presentacionProducto;
+                obj.descuento = item.descuento;
+                obj.precioProducto = item.precioProducto;
+                obj.subtotal = item.subtotal;
+                obj.EstadoSolicitud = item.EstadoSolicitud;
+                obj.cantidadProducto = item.cantidadProducto;
+
+                obj.documentoPagoId = item.documentoPagoId;
 
                 list.Add(obj);
             }
             return list;
         }
+
+        public String GrabarNotaCredito(PagoLogic obj)
+        {
+            SqlParameter[] parametro = new SqlParameter[9];
+
+            parametro[0] = new SqlParameter(); parametro[0].ParameterName = "numeroSolicitudVenta"; parametro[0].Value = obj.numeroSolicitudVenta;
+            parametro[1] = new SqlParameter(); parametro[1].ParameterName = "tipoDocumentoId"; parametro[1].Value = obj.tipoDocumentoId;
+            parametro[2] = new SqlParameter(); parametro[2].ParameterName = "tipoCambioId"; parametro[2].Value = obj.tipoCambioId;
+            parametro[3] = new SqlParameter(); parametro[3].ParameterName = "observaciones"; parametro[3].Value = obj.observaciones;
+            parametro[4] = new SqlParameter(); parametro[4].ParameterName = "montoTotal"; parametro[4].Value = obj.montoTotal;
+            parametro[5] = new SqlParameter(); parametro[5].ParameterName = "vuelto"; parametro[5].Value = obj.Vuelto;
+            parametro[6] = new SqlParameter(); parametro[6].ParameterName = "ruc"; parametro[6].Value = obj.ruc;
+            parametro[7] = new SqlParameter(); parametro[7].ParameterName = "razonSocial"; parametro[7].Value = obj.razonSocial;
+            parametro[8] = new SqlParameter(); parametro[8].ParameterName = "documentoPagoId"; parametro[8].Value = obj.documentoPagoId;
+
+            var documentoId = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarNotaCredito", parametro).ToString();
+
+            return documentoId;
+        }
+
+        public String GrabarNotaCreditoDetalle(PagoLogic obj)
+        {
+            SqlParameter[] parametro = new SqlParameter[3];
+
+            parametro[0] = new SqlParameter(); parametro[0].ParameterName = "documentoId"; parametro[0].Value = obj.documentoId;
+            parametro[1] = new SqlParameter(); parametro[1].ParameterName = "productoId"; parametro[1].Value = obj.productoId;
+            parametro[2] = new SqlParameter(); parametro[2].ParameterName = "cantidad"; parametro[2].Value = obj.cantidadProducto;
+
+            var documentoId = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarNotaCreditoDetalle", parametro).ToString();
+
+            return documentoId;
+        }
+
 
         public CierreCajaLogic CierreCaja()
         {

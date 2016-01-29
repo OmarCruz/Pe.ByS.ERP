@@ -147,124 +147,119 @@ try {
 
                             
                             header: {
-                                text: "SUSTENTO DE CIERRE DE CAJA  N° " + data.Result[0].codigoCierreCaja.toString(),
+                                text: "SUSTENTO DE CIERRE DE CAJA  N° ", // + data.Result[0].codigoCierreCaja.toString(),
                                 margin: [20, 20, 10, 20],
                                 alignment: 'center',
                                 fontSize: 17,
                                 fontFamily: 'tahoma'
                             },
 
-                            content: [
-                                        { text: '', margin: 5 },
-                                        { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Fecha:' },
-                                                { text: data.Result[0].fechaCierre.toString() },
-                                                //{ text: '' },
-                                                { text: 'Cajero:' },
-                                                { text: data.Result[0].nombreEmpleado.toString() }
-                                            ]
-                                        },
-                                        { text: '', margin: 5 },
-                                        { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Efectivo S/. :' },
-                                                { text: data.Result[0].efectivoSoles.toString() },
-                                                //{ text: '' },
-                                                { text: 'Efectivo S/. Real:' },
-                                                { text: data.Result[0].efectivoSolesReal.toString() }
-                                            ]
-                                        }, { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Efectivo $ :' },
-                                                { text: data.Result[0].efectivoDolares.toString() },
-                                                //{ text: '' },
-                                                { text: 'Efectivo $ Real:' },
-                                                { text: data.Result[0].efectivoDolaresReal.toString() }
-                                            ]
-                                        }, { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Tarjeta S/. :' },
-                                                { text: data.Result[0].tarjetaSoles.toString() },
-                                                //{ text: '' },
-                                                { text: 'Tarjeta S/. Real:' },
-                                                { text: data.Result[0].tarjetaSolesReal.toString() }
-                                            ]
-                                        }, { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Tarjeta $ :' },
-                                                { text: data.Result[0].tarjetaDolares.toString() },
-                                                //{ text: '' },
-                                                { text: 'Tarjeta $ Real:' },
-                                                { text: data.Result[0].tarjetaDolaresReal.toString() }
-                                            ]
-                                        }, { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Devolución S/. :' },
-                                                { text: data.Result[0].devolucionSoles.toString() },
-                                                //{ text: '' },
-                                                { text: 'Devolución S/. Real:' },
-                                                { text: data.Result[0].devolucionSolesReal.toString() }
-                                            ]
-                                        }, { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Devolución $ :' },
-                                                { text: data.Result[0].devolucionDolares.toString() },
-                                                //{ text: '' },
-                                                { text: 'Devolución $ Real:' },
-                                                { text: data.Result[0].devolucionDolaresReal.toString() }
-                                            ]
-                                        },
-                                        { text: '', margin: 5 },
-                                        { text: '', margin: 5 },
-                                        { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Monto Total:' },
-                                                { text: data.Result[0].MontoTotal.toString() },
-                                                //{ text: '' },
-                                                { text: 'Monto Real:' },
-                                                { text: data.Result[0].MontoReal.toString() }
-                                            ]
-                                        },
-                                        { text: '', margin: 5 },
-                                        {
-                                            alignment: 'left',
-                                            fontSize: 14,
-                                            columns: [
-                                                { text: 'Monto Diferencia:' },
-                                                { text: data.Result[0].montoDiferencia.toString() },
-                                                { text: '' },
-                                                //{ text: '' },
-                                                { text: '' }
-                                            ]
-                                        },
-                                        { text: '', margin: 5 }
+                            //content: [
+                                        //{ text: '', margin: 5 },
+                                        //{ text: '', margin: 5 },
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Fecha:' },
+                                        //        { text: data.Result[0].fechaCierre.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Cajero:' },
+                                        //        { text: data.Result[0].nombreEmpleado.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Efectivo S/. :' },
+                                        //        { text: data.Result[0].efectivoSoles.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Efectivo S/. Real:' },
+                                        //        { text: data.Result[0].efectivoSolesReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Efectivo $ :' },
+                                        //        { text: data.Result[0].efectivoDolares.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Efectivo $ Real:' },
+                                        //        { text: data.Result[0].efectivoDolaresReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Tarjeta S/. :' },
+                                        //        { text: data.Result[0].tarjetaSoles.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Tarjeta S/. Real:' },
+                                        //        { text: data.Result[0].tarjetaSolesReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Tarjeta $ :' },
+                                        //        { text: data.Result[0].tarjetaDolares.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Tarjeta $ Real:' },
+                                        //        { text: data.Result[0].tarjetaDolaresReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Devolución S/. :' },
+                                        //        { text: data.Result[0].devolucionSoles.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Devolución S/. Real:' },
+                                        //        { text: data.Result[0].devolucionSolesReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Devolución $ :' },
+                                        //        { text: data.Result[0].devolucionDolares.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Devolución $ Real:' },
+                                        //        { text: data.Result[0].devolucionDolaresReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Monto Total:' },
+                                        //        { text: data.Result[0].MontoTotal.toString() },
+                                        //        { text: '' },
+                                        //        { text: 'Monto Real:' },
+                                        //        { text: data.Result[0].MontoReal.toString() }
+                                        //    ]
+                                        //},
+                                        //{
+                                        //    alignment: 'left',
+                                        //    fontSize: 10,
+                                        //    columns: [
+                                        //        { text: 'Monto Diferencia:' },
+                                        //        { text: data.Result[0].montoDiferencia.toString() },
+                                        //        { text: '' },
+                                        //        { text: '' },
+                                        //        { text: '' }
+                                        //    ]
+                                        //},
+                            //            { text: '', margin: 5 }
 
-                            ],
+                            //],
+
                             styles: {
                                 tableExample: {
                                     margin: [0, 5, 0, 15],
@@ -276,6 +271,7 @@ try {
  
                         // open the PDF in a new window
                         pdfMake.createPdf(docDefinition).open();
+
 
                     }
                     else {

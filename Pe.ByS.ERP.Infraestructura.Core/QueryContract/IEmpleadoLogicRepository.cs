@@ -16,7 +16,18 @@ namespace Pe.ByS.ERP.Infraestructura.Core.QueryContract
 
         String GrabarPago(PagoLogic obj);
 
+        String GrabarPagoDetalle(PagoLogic obj);
+
         List<PagoLogic> BuscarComprobante(int numeroSolicitud);
+
+
+        List<SolicitudVentaLogic> BuscarDocumentoPago(String numeroDocumento);
+
+        String GrabarNotaCredito(PagoLogic obj);
+
+        String GrabarNotaCreditoDetalle(PagoLogic obj);
+
+
 
         CierreCajaLogic CierreCaja();
 

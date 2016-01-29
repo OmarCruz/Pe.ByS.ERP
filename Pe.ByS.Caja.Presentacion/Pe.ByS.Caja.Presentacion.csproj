@@ -981,6 +981,8 @@
     <Content Include="Scripts\Base\owl-carousel\owl.transitions.css" />
     <Content Include="Scripts\GestionPermiso\SolicitudPermiso\Buscar\Controller.js" />
     <Content Include="Scripts\GestionPermiso\SolicitudPermiso\Buscar\Index.js" />
+    <Content Include="Scripts\GestionPermiso\SolicitudPermiso\RegistrarDevolucion\Controller.js" />
+    <Content Include="Scripts\GestionPermiso\SolicitudPermiso\RegistrarDevolucion\Index.js" />
     <Content Include="Scripts\GestionPermiso\SolicitudPermiso\RegistrarCierreCaja\Controller.js" />
     <Content Include="Scripts\GestionPermiso\SolicitudPermiso\RegistrarCierreCaja\Index.js" />
     <Content Include="Scripts\PDF\pdfmake.min.js" />
@@ -1155,6 +1157,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\GestionPermiso\Views\SolicitudPermiso\RegistrarCierreCaja.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\GestionPermiso\Views\SolicitudPermiso\RegistrarDevolucion.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

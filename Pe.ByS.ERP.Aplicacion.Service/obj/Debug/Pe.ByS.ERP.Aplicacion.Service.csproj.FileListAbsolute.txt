@@ -231,3 +231,49 @@ C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.csprojResolveAssemblyReference.cache
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.dll
 C:\UPC\2015-02\Modulo 2\TP2\Final\02122015_GAN (Modificaciones 3)\02122015_GAN (Modificaciones 3)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.csprojResolveAssemblyReference.cache
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Windsor.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\log4net.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\EntityFramework.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Core.dll
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Windsor.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\log4net.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\EntityFramework.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Core.xml
+C:\UPC\2015-02\Modulo 2\TP2\Final\03122015_GAN\03122015_GAN (Modificaciones 4)\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.csprojResolveAssemblyReference.cache
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Service.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Service.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Windsor.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\log4net.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\EntityFramework.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Core.dll
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Windsor.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\log4net.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\EntityFramework.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\bin\Debug\Castle.Core.xml
+C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Service\obj\Debug\Pe.ByS.ERP.Aplicacion.Service.pdb

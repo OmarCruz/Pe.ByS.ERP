@@ -3,7 +3,7 @@
 }
 <div class="panel panel-default">
     <div class="panel-heading">
-        <strong>Registrar Pago</strong>
+        <strong>Registrar Devolucion</strong>
     </div>
     <div class="panel-body" style="min-height: 330px;">
         <div id="divMensajeInformativo">
@@ -15,9 +15,9 @@
             <div class="col-md-6">
                 <div class="form-horizontal" role="form">
                     <div class="form-group" style="">
-                        <label class="col-sm-5 control-label">Comprobante de Pedido:</label>
+                        <label class="col-sm-5 control-label">Comprobante de Pago:</label>
                         <div class="col-sm-7">
-                            <input id="txtNumeroSolicitud" type="text" class="form-control integerInput" maxlength="10" placeholder="Comprobante de Pedido" >
+                            <input id="txtNumeroSolicitud" type="text" class="form-control integerInput" maxlength="15" placeholder="Comprobante de Pago" >
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Detalle de Solicitud de Pedido</h3>
+                <h3>Detalle de la Venta</h3>
             </div>
         </div>
 
@@ -72,35 +72,35 @@
                             <div class="form-group">
                                 <label class="col-sm-2 control-label">Tipo de Documento:</label>
                                 <div class="col-sm-3">
-                                    <select id="cboTipoDocumento" class="form-control" data-bind="options: ListaTipoDocumento, optionsText: 'Name', optionsValue: 'Id', optionsCaption: 'Seleccionar'">
-                                        <option value="0">--Seleccionar--</option>
-                                        <option value="1">Boleta</option>
-                                        <option value="2">Factura</option>
+                                    <select id="cboTipoDocumento" class="form-control" data-bind="options: ListaTipoDocumento, optionsText: 'Name', optionsValue: 'Id', optionsCaption: 'Seleccionar'" disabled="disabled">
+                                        <!-- <option value="0">--Seleccionar--</option> -->
+                                        <option value="3">Nota de Crédito</option>
                                     </select>
                                 </div>
                                 <label id="lblRuc" class="col-sm-1 control-label">RUC:</label>
-                                <div class="col-sm-2">
+                                <div class="col-sm-1">
                                     <input id="txtRuc" type="text" class="form-control integerInput" maxlength="11">
                                 </div>
                                 <label id="lblRazonSocial" class="col-sm-1 control-label">Razon Social:</label>
-                                <div class="col-sm-2">
+                                <div class="col-sm-3">
                                     <input id="txtRazonSocial" type="text" class="form-control">
                                 </div>
                             </div>
 
+                            <!-- 
                             <div class="row">
                                 <div class="col-sm-6">
                                     <h3>Medios de Pago</h3>
                                 </div>
                             </div>
-
+                                -->
                             <div class="form-group">
                                 <label class="col-sm-2 control-label">Tipo de Pago:</label>
                                 <div class="col-sm-3">
-                                    <select id="cboTipoPago" class="form-control" >
-                                        <option value="0">--Seleccionar--</option>
+                                    <select id="cboTipoPago" class="form-control" disabled="disabled">
+                                        <!-- <option value="0">--Seleccionar--</option> -->
                                         <option value="1">Efectivo</option>
-                                        <option value="2">Tarjeta</option>
+                                        <!-- <option value="2">Tarjeta</option> -->
                                     </select>
                                 </div>
                                 <label id="lblReferenciaPagoTarjeta" class="col-sm-1 control-label">Ref:</label>
@@ -111,10 +111,10 @@
                             <div class="form-group">
                                 <label class="col-sm-2 control-label">Moneda:</label>
                                 <div class="col-sm-3">
-                                    <select id="cboMoneda" class="form-control">
-                                        <option value="0"> --Seleccionar--</option>
+                                    <select id="cboMoneda" class="form-control" disabled="disabled">
+                                        <!-- <option value="0"> --Seleccionar--</option> -->
                                         <option value="1">Soles</option>
-                                        <option value="2">Dolares</option>
+                                        <!-- <option value="2">Dolares</option> -->
                                     </select>
                                 </div>
                             </div>
@@ -122,32 +122,37 @@
                             <div class="form-group" style="">
                                 <label class="col-sm-2 control-label">Monto:</label>
                                 <div class="col-sm-3">
-                                    <input id="txtMonto" type="text" class="form-control doubleInput" placeholder="0.00">
+                                    <input id="txtMonto" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
                                 </div>
+                                <!-- 
                                 <div class="col-sm-7">
                                     <input id="btnAgregarDocumentoTipoPago" class="btn btn-default btn-filter" type="button" value="Agregar" data-bind="visible: Agregar.Visible, enable: Agregar.Enabled" />
                                 </div>
+                                    -->
                             </div>
+                            <!-- 
                             <div id="divDocumentoTipoPago" style="display: none">
                                 <div class="table-responsive">
                                     <div id="grdDocumentoTipoPago" >
                                     </div>
                                 </div>
                             </div>
-
+                                -->
                             <div class="form-group" style="">
                                 <label class="col-sm-2 control-label">Importe:</label>
                                 <div class="col-sm-3">
                                     <input id="txtImporte" type="text" class="form-control doubleInput" placeholder="0.00" disabled="disabled">
                                 </div>
                             </div>
+
+                            <!-- 
                             <div class="form-group" style="">
                                 <label class="col-sm-2 control-label">Vuelto Soles:</label>
                                 <div class="col-sm-3">
                                     <input id="txtVuelto" type="text" class="form-control" placeholder="0.00" disabled="disabled">
                                 </div>
                             </div>
-
+                                -->
                             
                             <div class="form-group">
                                 <div class="col-sm-5"></div>
@@ -172,9 +177,9 @@
 
     <script type="text/javascript">
         ns('Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions');
-        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Buscar = '@Url.Action("Buscar", "SolicitudPermiso", new { Area = "GestionPermiso" })';
-        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Grabar = '@Url.Action("Grabar", "SolicitudPermiso", new { Area = "GestionPermiso" })';
-        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.GrabarPagoDetalle = '@Url.Action("GrabarPagoDetalle", "SolicitudPermiso", new { Area = "GestionPermiso" })';
+        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Buscar = '@Url.Action("BuscarDocumento", "SolicitudPermiso", new { Area = "GestionPermiso" })';
+        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.Grabar = '@Url.Action("GrabarNotaCredito", "SolicitudPermiso", new { Area = "GestionPermiso" })';
+        Pe.ByS.ERP.GestionPermiso.SolicitudPermiso.Actions.GrabarPagoDetalle = '@Url.Action("GrabarNotaCreditoDetalle", "SolicitudPermiso", new { Area = "GestionPermiso" })';
 
        
     </script>
