@@ -9,6 +9,8 @@
 //     alert("id=" + tipoPago)
 // };
 
+// prueba commit
+
 try {
     ns('Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Devolucion.Controller');
     Pe.ByS.Caja.GestionPermiso.SolicitudPermiso.Devolucion.Controller = function () {
