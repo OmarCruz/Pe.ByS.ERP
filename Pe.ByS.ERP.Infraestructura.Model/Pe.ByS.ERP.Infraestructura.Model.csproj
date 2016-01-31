@@ -54,6 +54,9 @@
     <Compile Include="Command\IMP\SolicitudGestionPermisoEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Query\CAJ\CierreCajaLogic.cs" />
+    <Compile Include="Query\CAJ\NotaCreditoLogic.cs" />
+    <Compile Include="Query\CAJ\GrabarDevolucionLogic.cs" />
+    <Compile Include="Query\CAJ\DevolucionLogic.cs" />
     <Compile Include="Query\CAJ\EmpleadoLogic.cs" />
     <Compile Include="Query\CAJ\PagoLogic.cs" />
     <Compile Include="Query\CAJ\SolicitudVentaLogic.cs" />
@@ -67,6 +70,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Pe.ByS.ERP.Aplicacion.TransferObject\Pe.ByS.ERP.Aplicacion.TransferObject.csproj">
+      <Project>{4bee4ad2-b250-4ff4-aad3-3e28d5b07627}</Project>
+      <Name>Pe.ByS.ERP.Aplicacion.TransferObject</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

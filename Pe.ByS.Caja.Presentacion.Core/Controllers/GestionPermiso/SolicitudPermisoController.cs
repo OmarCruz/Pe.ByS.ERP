@@ -122,34 +122,31 @@ namespace Pe.ByS.Caja.Presentacion.Core.Controllers.GestionPermiso
 
 
         [HttpPost]
-        public virtual JsonResult BuscarDocumento(SolicitudVentaRequest request)
+        public virtual JsonResult BuscarDocumento(DevolucionRequest request)
         {
             var solicitudes = solicitudVentaService.BuscarDocumentoPago(request.NumeroDocumento);
             return Json(solicitudes);
         }
 
         [HttpPost]
-        public virtual JsonResult GrabarNotaCredito(PagoRequest request)
+        public virtual JsonResult GrabarNotaCredito(GrabarDevolucionRequest request)
         {
-            if (request.referenciaPagoTarjeta == null) request.referenciaPagoTarjeta = "";
-            if (request.ruc == null) request.ruc = "";
-            if (request.razonSocial == null) request.razonSocial = "";
+            GrabarDevolucionDomain objDomain = new GrabarDevolucionDomain();
+            objDomain.numeroComprobantePago = request.numeroComprobantePago;
+            objDomain.tipoDocumentoId = request.tipoDocumentoId;
+            objDomain.empleadoId = request.empleadoId;
+            objDomain.cajaId = request.cajaId;
+            objDomain.tipoAtencionId = request.tipoAtencionId;
+            objDomain.pendientePago = request.pendientePago;
+            objDomain.observaciones = request.observaciones;
+            objDomain.montoTotal = request.montoTotal;
+            objDomain.ListaProductos = request.ListaProductos;
 
-            PagoDomain svd = new PagoDomain();
-            // svd.numeroSolicitudVenta = request.numeroSolicitudVenta;
-            svd.tipoDocumentoId = request.tipoDocumentoId; // Se autogenera en el SP
-            svd.tipoCambioId = request.tipoCambioId;
-            svd.tipoAtencion = request.tipoAtencion;
-            svd.observaciones = request.observaciones;
-            svd.montoTotal = request.montoTotal;
-            // svd.Vuelto = request.Vuelto; // No se usa
-            svd.ruc = request.ruc;
-            svd.razonSocial = request.razonSocial;
-            svd.documentoPagoId = request.documentoPagoId;
+            var resultado = solicitudVentaService.GrabarNotaCredito(objDomain);
 
-            var solicitudes = solicitudVentaService.GrabarNotaCredito(svd);
+            var notaCredito = solicitudVentaService.BuscarNotaCredito(request.numeroComprobantePago);
 
-            return Json(solicitudes);
+            return Json(notaCredito);
         }
 
         [HttpPost]

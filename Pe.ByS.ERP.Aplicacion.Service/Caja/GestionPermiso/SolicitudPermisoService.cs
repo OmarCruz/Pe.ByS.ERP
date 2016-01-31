@@ -21,7 +21,6 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
 
         public IEmpleadoLogicRepository EmpleadoLogicRepository { get; set; }
 
-
         public ProcessResult<List<SolicitudPermisoResponse>> BuscarSolicitudesPermiso(SolicitudPermisoRequest filtro)
         {
             throw new System.NotImplementedException();
@@ -211,25 +210,29 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
 
 
 
-        public ProcessResult<List<SolicitudVentaDomain>> BuscarDocumentoPago(String numeroDocumento)
+        public ProcessResult<List<DevolucionDomain>> BuscarDocumentoPago(String numeroDocumento)
         {
-            ProcessResult<List<SolicitudVentaDomain>> list = new ProcessResult<List<SolicitudVentaDomain>>();
-            List<SolicitudVentaDomain> listResult = new List<SolicitudVentaDomain>();
+            ProcessResult<List<DevolucionDomain>> list = new ProcessResult<List<DevolucionDomain>>();
+            List<DevolucionDomain> listResult = new List<DevolucionDomain>();
             try
             {
-                List<SolicitudVentaLogic> solicitudVenta = EmpleadoLogicRepository.BuscarDocumentoPago(numeroDocumento);
+                List<DevolucionLogic> solicitudVenta = EmpleadoLogicRepository.BuscarDocumentoPago(numeroDocumento);
 
                 foreach (var item in solicitudVenta)
                 {
-                    SolicitudVentaDomain svd = new SolicitudVentaDomain();
+                    DevolucionDomain svd = new DevolucionDomain();
 
                     svd.productoId = item.productoId;
                     svd.descripcionProducto = item.descripcionProducto;
                     svd.presentacionProducto = item.presentacionProducto;
                     svd.cantidadProducto = item.cantidadProducto;
-                    svd.descuento = item.descuento;
                     svd.precioProducto = item.precioProducto;
                     svd.subtotal = item.subtotal;
+                    svd.descuento = item.descuento;
+                    svd.EstadoSolicitud = item.EstadoSolicitud;
+                    svd.documentoPagoId = item.documentoPagoId;
+                    svd.fechaCreacion = item.fechaCreacion;
+                    svd.tiempoTranscurrido = item.tiempoTranscurrido;
 
                     listResult.Add(svd);
                 }
@@ -245,7 +248,7 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
             return list;
         }
 
-        public ProcessResult<String> GrabarNotaCredito(PagoDomain obj)
+        public ProcessResult<String> GrabarNotaCredito(GrabarDevolucionDomain obj)
         {
             ProcessResult<String> result = new ProcessResult<String>();
 
@@ -253,20 +256,19 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
 
             try
             {
-                PagoLogic svd = new PagoLogic();
+                GrabarDevolucionLogic objLogic = new GrabarDevolucionLogic();
 
-                svd.numeroSolicitudVenta = obj.numeroSolicitudVenta;
-                svd.tipoDocumentoId = obj.tipoDocumentoId;
-                svd.tipoCambioId = obj.tipoCambioId;
-                svd.tipoAtencion = obj.tipoAtencion;
-                svd.observaciones = obj.observaciones;
-                svd.montoTotal = obj.montoTotal;
-                svd.Vuelto = obj.Vuelto;
-                svd.ruc = obj.ruc;
-                svd.razonSocial = obj.razonSocial;
-                svd.documentoPagoId = obj.documentoPagoId;
+                objLogic.numeroComprobantePago = obj.numeroComprobantePago;
+                objLogic.tipoDocumentoId = obj.tipoDocumentoId;
+                objLogic.empleadoId = obj.empleadoId;
+                objLogic.cajaId = obj.cajaId;
+                objLogic.tipoAtencionId = obj.tipoAtencionId;
+                objLogic.pendientePago = obj.pendientePago;
+                objLogic.observaciones = obj.observaciones;
+                objLogic.montoTotal = obj.montoTotal;
+                objLogic.ListaProductos = obj.ListaProductos;
 
-                documentoId = EmpleadoLogicRepository.GrabarNotaCredito(svd);
+                documentoId = EmpleadoLogicRepository.GrabarNotaCredito(objLogic);
 
             }
             catch (Exception e)
@@ -276,6 +278,47 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
             }
 
             return result;
+        }
+
+        public ProcessResult<List<NotaCreditoDomain>> BuscarNotaCredito(String numeroComprobantePago)
+        {
+            ProcessResult<List<NotaCreditoDomain>> list = new ProcessResult<List<NotaCreditoDomain>>();
+            List<NotaCreditoDomain> listResult = new List<NotaCreditoDomain>();
+            try
+            {
+                List<NotaCreditoLogic> solicitudVenta = EmpleadoLogicRepository.BuscarNotaCredito(numeroComprobantePago);
+
+                foreach (var item in solicitudVenta)
+                {
+                    NotaCreditoDomain svd = new NotaCreditoDomain();
+
+                    svd.productoId = item.productoId;
+                    svd.nombreProducto = item.nombreProducto;
+                    svd.cantidadProducto = item.cantidadProducto;
+                    svd.precioProducto = item.precioProducto;
+                    svd.subtotal = item.subtotal;
+                    svd.notaCreditoId = item.notaCreditoId;
+                    svd.numeroNotaCredito = item.numeroNotaCredito;
+                    svd.numeroComprobantePago = item.numeroComprobantePago;
+                    svd.fechaCreacion = item.fechaCreacion;
+                    svd.nombreEmpleado = item.nombreEmpleado;
+                    svd.apellidoPaternoEmpleado = item.apellidoPaternoEmpleado;
+                    svd.montoTotal = item.montoTotal;
+                    svd.sucursalNombre = item.sucursalNombre;
+                    svd.sucursalTelefono = item.sucursalTelefono;
+
+                    listResult.Add(svd);
+                }
+
+                list.Result = listResult;
+
+            }
+            catch (Exception e)
+            {
+                list.IsSuccess = true;
+                list.Exception = new ApplicationLayerException<SolicitudPermisoService>("Ocurrio un problema en el sistema", e);
+            }
+            return list;
         }
 
         public ProcessResult<String> GrabarNotaCreditoDetalle(PagoDomain obj)
@@ -295,7 +338,7 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
                 svd.referenciaPagoTarjeta = obj.referenciaPagoTarjeta;
 
                 documentoId = EmpleadoLogicRepository.GrabarNotaCreditoDetalle(svd);
-
+                result.Result = documentoId;
             }
             catch (Exception e)
             {

@@ -55,13 +55,13 @@ namespace Pe.ByS.ERP.Aplicacion.Core.ServiceContract.Caja.GestionPermiso
 
 
 
-        ProcessResult<List<SolicitudVentaDomain>> BuscarDocumentoPago(String numeroDocumento);
+        ProcessResult<List<DevolucionDomain>> BuscarDocumentoPago(String numeroDocumento);
 
-        ProcessResult<String> GrabarNotaCredito(PagoDomain obj);
+        ProcessResult<String> GrabarNotaCredito(GrabarDevolucionDomain obj);
 
         ProcessResult<String> GrabarNotaCreditoDetalle(PagoDomain obj);
 
-
+        ProcessResult<List<NotaCreditoDomain>> BuscarNotaCredito(String numeroComprobantePago);
 
         ProcessResult<CierreCajaDomain> CierreCaja();
 

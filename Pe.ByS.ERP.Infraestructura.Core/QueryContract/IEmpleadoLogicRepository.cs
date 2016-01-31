@@ -20,10 +20,11 @@ namespace Pe.ByS.ERP.Infraestructura.Core.QueryContract
 
         List<PagoLogic> BuscarComprobante(int numeroSolicitud);
 
+        List<NotaCreditoLogic> BuscarNotaCredito(String numeroComprobantePago);
 
-        List<SolicitudVentaLogic> BuscarDocumentoPago(String numeroDocumento);
+        List<DevolucionLogic> BuscarDocumentoPago(String numeroDocumento);
 
-        String GrabarNotaCredito(PagoLogic obj);
+        String GrabarNotaCredito(GrabarDevolucionLogic obj);
 
         String GrabarNotaCreditoDetalle(PagoLogic obj);
 
