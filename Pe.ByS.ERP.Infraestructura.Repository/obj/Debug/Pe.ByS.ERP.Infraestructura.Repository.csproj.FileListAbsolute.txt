@@ -212,3 +212,23 @@ C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repos
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\EntityFramework.SqlServer.xml
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\log4net.xml
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\obj\Debug\Pe.ByS.ERP.Infraestructura.Repository.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Repository.dll.config
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Repository.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Repository.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\log4net.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\bin\Debug\log4net.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\obj\Debug\Pe.ByS.ERP.Infraestructura.Repository.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\obj\Debug\Pe.ByS.ERP.Infraestructura.Repository.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Repository\obj\Debug\Pe.ByS.ERP.Infraestructura.Repository.pdb

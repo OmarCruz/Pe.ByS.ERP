@@ -15,3 +15,8 @@ C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\D
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb

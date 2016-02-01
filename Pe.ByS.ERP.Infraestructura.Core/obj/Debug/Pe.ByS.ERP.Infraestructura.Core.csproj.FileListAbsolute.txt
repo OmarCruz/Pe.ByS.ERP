@@ -118,3 +118,17 @@ C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll.config
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\obj\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb

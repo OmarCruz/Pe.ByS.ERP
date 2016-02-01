@@ -14,3 +14,7 @@ C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\bin\Debu
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\bin\Debug\Pe.ByS.ERP.Aplicacion.Adapter.pdb
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\obj\Debug\Pe.ByS.ERP.Aplicacion.Adapter.dll
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\obj\Debug\Pe.ByS.ERP.Aplicacion.Adapter.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\bin\Debug\Pe.ByS.ERP.Aplicacion.Adapter.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\bin\Debug\Pe.ByS.ERP.Aplicacion.Adapter.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\obj\Debug\Pe.ByS.ERP.Aplicacion.Adapter.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.Adapter\obj\Debug\Pe.ByS.ERP.Aplicacion.Adapter.pdb

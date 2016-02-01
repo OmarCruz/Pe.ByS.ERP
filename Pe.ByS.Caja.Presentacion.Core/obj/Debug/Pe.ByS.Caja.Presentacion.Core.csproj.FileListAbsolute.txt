@@ -352,3 +352,30 @@ C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bi
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\EntityFramework.xml
 C:\UPC\TP3\Presentacion 2\270116_GAN\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.Caja.Presentacion.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.Caja.Presentacion.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\System.Web.Optimization.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Castle.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\log4net.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Castle.Core.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\log4net.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\obj\Debug\Pe.ByS.Caja.Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\obj\Debug\Pe.ByS.Caja.Presentacion.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Core\obj\Debug\Pe.ByS.Caja.Presentacion.Core.pdb

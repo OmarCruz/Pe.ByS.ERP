@@ -14,3 +14,7 @@ C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.B
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
 C:\Users\gloriaa\Desktop\FINAL\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\bin\Debug\Pe.ByS.ERP.Dominio.Core.pdb
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.dll
+C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Core\obj\Debug\Pe.ByS.ERP.Dominio.Core.pdb
