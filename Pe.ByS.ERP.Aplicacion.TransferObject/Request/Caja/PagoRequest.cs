@@ -37,8 +37,8 @@ namespace Pe.ByS.ERP.Aplicacion.TransferObject.Request.Caja
         public int cantidadProducto { get; set; }
         public int tipoPagoId { get; set; }
         public int monedaId { get; set; }
-         
 
+        public List<TipoPago> tipoPago { get; set; }
 
 
 

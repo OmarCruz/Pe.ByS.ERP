@@ -62,6 +62,24 @@ namespace Pe.ByS.ERP.Infraestructura.Repository.Query.Caja
 
             var documentoId = this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarDocumento", parametro).ToString();
 
+            foreach (TipoPago tipoPago in obj.listaTipoPago)
+            {
+                SqlParameter[] parametrotipoPago = new SqlParameter[5];
+                String strReferencia= "";
+                parametrotipoPago[0] = new SqlParameter(); parametrotipoPago[0].ParameterName = "tipoPagoId"; parametrotipoPago[0].Value = tipoPago.tipoPagoId;
+                parametrotipoPago[1] = new SqlParameter(); parametrotipoPago[1].ParameterName = "monedaId"; parametrotipoPago[1].Value = tipoPago.monedaId;
+                parametrotipoPago[2] = new SqlParameter(); parametrotipoPago[2].ParameterName = "monto"; parametrotipoPago[2].Value = tipoPago.monto;
+                if (tipoPago.referencia != null)
+                    strReferencia = tipoPago.referencia;
+                else
+                    strReferencia = "";
+                parametrotipoPago[3] = new SqlParameter(); parametrotipoPago[3].ParameterName = "referencia"; parametrotipoPago[3].Value = strReferencia;
+                parametrotipoPago[4] = new SqlParameter(); parametrotipoPago[4].ParameterName = "documentoId"; parametrotipoPago[4].Value = documentoId;
+
+                this.dataBaseProvider.ExecuteStoreProcedureNonQuery("dbo.GrabarDocumentoDetalle", parametrotipoPago).ToString();
+                
+            }
+
             return documentoId;
         }
 

@@ -42,6 +42,7 @@
     <Compile Include="Base\Paginado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Request\Caja\CierreRequest.cs" />
+    <Compile Include="Request\Caja\TipoPago.cs" />
     <Compile Include="Request\Caja\ProductoDevolucion.cs" />
     <Compile Include="Request\Caja\GrabarDevolucionRequest.cs" />
     <Compile Include="Request\Caja\DevolucionRequest.cs" />

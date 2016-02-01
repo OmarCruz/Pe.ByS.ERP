@@ -95,6 +95,7 @@ namespace Pe.ByS.Caja.Presentacion.Core.Controllers.GestionPermiso
             svd.Vuelto = request.Vuelto;
             svd.ruc = request.ruc;
             svd.razonSocial = request.razonSocial;
+            svd.listaTipoPago = request.tipoPago;
 
             var solicitudes = solicitudVentaService.GrabarPago(svd);
 

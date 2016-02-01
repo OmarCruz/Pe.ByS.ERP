@@ -31,3 +31,10 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\bin\Debug\log4ne
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.csprojResolveAssemblyReference.cache
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\bin\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\bin\Debug\log4net.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\bin\Debug\log4net.xml
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Cross.Core\obj\Debug\Pe.ByS.ERP.Cross.Core.csprojResolveAssemblyReference.cache

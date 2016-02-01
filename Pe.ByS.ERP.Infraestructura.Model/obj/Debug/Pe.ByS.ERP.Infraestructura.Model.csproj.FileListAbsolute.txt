@@ -104,3 +104,15 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\obj\D
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\obj\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll.config
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\EntityFramework.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\EntityFramework.xml
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\obj\Debug\Pe.ByS.ERP.Infraestructura.Model.csprojResolveAssemblyReference.cache
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\obj\Debug\Pe.ByS.ERP.Infraestructura.Model.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Model\obj\Debug\Pe.ByS.ERP.Infraestructura.Model.pdb

@@ -20,3 +20,7 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\D
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.csprojResolveAssemblyReference.cache
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\bin\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Infraestructura.Proxy\obj\Debug\Pe.ByS.ERP.Infraestructura.Proxy.pdb

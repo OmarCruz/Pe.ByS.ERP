@@ -18,3 +18,7 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\bin\Debug\Pe.
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\bin\Debug\Pe.ByS.ERP.Dominio.Model.pdb
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\obj\Debug\Pe.ByS.ERP.Dominio.Model.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\obj\Debug\Pe.ByS.ERP.Dominio.Model.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\bin\Debug\Pe.ByS.ERP.Dominio.Model.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\bin\Debug\Pe.ByS.ERP.Dominio.Model.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\obj\Debug\Pe.ByS.ERP.Dominio.Model.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Dominio.Model\obj\Debug\Pe.ByS.ERP.Dominio.Model.pdb

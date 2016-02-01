@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Pe.ByS.ERP.Aplicacion.TransferObject.Request.Caja;
 
 namespace Pe.ByS.ERP.Aplicacion.TransferObject.Response.General
 {
@@ -52,5 +53,6 @@ namespace Pe.ByS.ERP.Aplicacion.TransferObject.Response.General
         public String unidadMedidaProducto { get; set; }
         public decimal subtotalProducto { get; set; }
 
+        public List<TipoPago> listaTipoPago { get; set; }
     }
 }

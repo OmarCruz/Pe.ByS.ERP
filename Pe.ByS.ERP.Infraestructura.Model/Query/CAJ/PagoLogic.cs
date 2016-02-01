@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Pe.ByS.ERP.Aplicacion.TransferObject.Request.Caja;
 
 
 namespace Pe.ByS.ERP.Infraestructura.QueryModel
@@ -44,6 +45,8 @@ namespace Pe.ByS.ERP.Infraestructura.QueryModel
         public String unidadMedidaProducto { get; set; }
         public int cantidadProducto { get; set; }
         public decimal subtotalProducto { get; set; }
+
+        public List<TipoPago> listaTipoPago { get; set; }
 
 
     }

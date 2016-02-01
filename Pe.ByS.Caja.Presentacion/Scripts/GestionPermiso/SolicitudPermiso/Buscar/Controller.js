@@ -15,7 +15,7 @@ try {
         var base = this;
         var SolicitudVentaRequest = {};
         var PagoRequest = {};
-        var tipoCambio = 3.27;
+        var tipoCambio = 3.30;
         var tipoPago = new Array();
         var tipoPagoIndex = 0;
 
@@ -260,6 +260,7 @@ try {
                     PagoRequest.numeroSolicitudVenta = base.Control.txtNumeroSolicitud().val();
 
                     PagoRequest.montoRecibido = $('#txtImporte').val();
+                    PagoRequest.tipoPago = tipoPago;
                     // PagoRequest.referenciaPagoTarjeta = $('#txtReferenciaPagoTarjeta').val();
                     PagoRequest.tipoDocumentoId = $('#cboTipoDocumento').val();
                     PagoRequest.ruc = $('#txtRuc').val();
@@ -542,7 +543,7 @@ try {
 
                 if (tipoPagoSelectedId != 0 && monedaSelectedId != 0 &&
                     montoText.trim() != "" && (parseFloat(montoText)) > 0 &&
-                    (tipoPagoSelectedId == 1 || (tipoPagoSelectedId == 2 && referenciaText.trim()))
+                    (tipoPagoSelectedId == 1 || tipoPagoSelectedId == 3 || (tipoPagoSelectedId == 2 && referenciaText.trim()))
                     ) {
                     $('#grdDocumentoTipoPago').empty();
                     tipoPagoIndex = tipoPagoIndex + 1;

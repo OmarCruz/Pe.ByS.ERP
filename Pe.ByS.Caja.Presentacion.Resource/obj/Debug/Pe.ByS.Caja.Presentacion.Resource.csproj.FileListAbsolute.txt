@@ -37,3 +37,9 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\bin\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.Base.GenericoResource.resources
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.csproj.GenerateResource.Cache
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.Caja.Presentacion.Resource\obj\Debug\Pe.ByS.Caja.Presentacion.Resource.pdb

@@ -50,3 +50,8 @@ C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\b
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.csprojResolveAssemblyReference.cache
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
 C:\Users\win7\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\bin\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.dll
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.pdb
+C:\Users\chavo\Documents\GitHub\Pe.ByS.ERP\Pe.ByS.ERP.Aplicacion.TransferObject\obj\Debug\Pe.ByS.ERP.Aplicacion.TransferObject.csprojResolveAssemblyReference.cache

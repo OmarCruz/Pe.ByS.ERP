@@ -120,6 +120,7 @@ namespace Pe.ByS.ERP.Aplicacion.Service.Caja.GestionPermiso
                 svd.Vuelto = obj.Vuelto;   
                 svd.ruc = obj.ruc;
                 svd.razonSocial = obj.razonSocial;
+                svd.listaTipoPago = obj.listaTipoPago;
 
                 documentoId = EmpleadoLogicRepository.GrabarPago(svd);
 
